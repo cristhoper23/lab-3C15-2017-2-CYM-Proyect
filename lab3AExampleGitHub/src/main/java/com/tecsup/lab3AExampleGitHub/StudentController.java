@@ -18,7 +18,7 @@ public class StudentController
     }
     
     public void getMessage1() {
-    	System.out.println("Soy un nuevo cambio");
+    	System.out.println("Soy un nuevo cambio 1");
     }
     
     public void getMessage2() {
