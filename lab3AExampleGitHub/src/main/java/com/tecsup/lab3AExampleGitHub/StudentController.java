@@ -10,7 +10,10 @@ public class StudentController
     {
         System.out.println( "Branch-1!" );
     }
-    public static void showMessage() {
-    	System.out.println("Mensaje de prueba");
+    public static void showMessage1() {
+    	System.out.println("Mensaje de prueba 1");
+    }
+    public static void showMessage2() {
+    	System.out.println("Mensaje de prueba 2");
     }
 }
