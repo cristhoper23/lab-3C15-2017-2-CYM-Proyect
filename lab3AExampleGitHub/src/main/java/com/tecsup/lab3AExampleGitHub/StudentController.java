@@ -13,4 +13,12 @@ public class StudentController
     public static void showMessage() {
     	System.out.println("Mensaje de prueba");
     }
+    
+    public void getMessage1() {
+    	System.out.println("Soy un nuevo cambio");
+    }
+    
+    public void getMessage2() {
+    	System.out.println("Soy un nuevo cambio 2");
+    }
 }
